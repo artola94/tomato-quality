@@ -1,0 +1,12 @@
+Test accuracy: 0.9241
+              precision    recall  f1-score   support
+
+     Damaged       0.90      0.65      0.75       106
+         Old       0.86      0.94      0.90       222
+        Ripe       0.97      0.98      0.98       220
+      Unripe       0.96      0.99      0.98       177
+
+    accuracy                           0.92       725
+   macro avg       0.92      0.89      0.90       725
+weighted avg       0.92      0.92      0.92       725
+

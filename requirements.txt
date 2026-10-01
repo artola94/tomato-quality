@@ -1,0 +1,7 @@
+# Python 3.12. The notebook kernel did not record package versions.
+tensorflow>=2.16
+keras>=3
+numpy
+scikit-learn
+matplotlib
+seaborn
